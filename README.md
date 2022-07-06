@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Neil.Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liumingzhuo&count_private=true&show_icons=true&theme=radical)](https://github.com/liumingzhuo)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liumingzhuo&layout=compact)](https://github.com/liumingzhuo)
+[![Neil.Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liumingzhuo&count_private=true&show_icons=true&theme=radical)](https://github.com/liumingzhuo)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liumingzhuo&layout=compact)](https://github.com/liumingzhuo)
+
+<a href="https://github.com/liumingzhuo">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=liumingzhuo&count_private=true&show_icons=true&theme=radical)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/liumingzhuo">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=liumingzhuo&layout=compact)" />
 </a>
