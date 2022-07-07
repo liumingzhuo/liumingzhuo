@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=liumingzhuo&show_icons=true&theme=dracula&card_width=500" style="width:50%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=liumingzhuo&count_private=true&show_icons=true&theme=dracula&card_width=500" style="width:50%" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liumingzhuo&layout=compact&theme=dracula&card_width=445" style="width:50%" align="right" />
 
 ### Hi there 👋
