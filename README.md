@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **liumingzhuo/liumingzhuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Neil.Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liumingzhuo&count_private=true&show_icons=true&theme=radical)](https://github.com/liumingzhuo)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liumingzhuo&layout=compact)](https://github.com/liumingzhuo)
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=liumingzhuo&show_icons=true&theme=dracula&card_width=500" style="width:50%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liumingzhuo&layout=compact&theme=dracula&card_width=445" style="width:50%" align="right" />
+
+### Hi there 👋
+- Focus on Golang and Java development
